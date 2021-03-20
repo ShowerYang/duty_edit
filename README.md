@@ -10,3 +10,4 @@ https://showeryang.github.io/duty_edit/ <br>
 Vue.js(with Vue CLI) <br>
 CSS <br>
 vue-smooth-dnd <br>
+Bootstrap Modal <br>
